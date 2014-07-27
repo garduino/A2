@@ -1,0 +1,17 @@
+{
+	"category" : "A2-Model",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"custName",
+		"custEmail",
+		"custPhone",
+		"custMobPhone" ],
+	"name" : "Customer",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }
