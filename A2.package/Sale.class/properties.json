@@ -1,0 +1,19 @@
+{
+	"category" : "A2-Model",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"customer",
+		"domainName",
+		"hostingPlan",
+		"saleDate",
+		"validUntil",
+		"payments" ],
+	"name" : "Sale",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

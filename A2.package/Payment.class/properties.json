@@ -6,12 +6,11 @@
 		 ],
 	"commentStamp" : "",
 	"instvars" : [
-		"customer",
-		"domainName",
-		"hostingPlan",
-		"saleDate",
-		"validUntil" ],
-	"name" : "Sales",
+		"paymentDate",
+		"amount",
+		"dateFrom",
+		"dateUntil" ],
+	"name" : "Payment",
 	"pools" : [
 		 ],
 	"super" : "Object",
