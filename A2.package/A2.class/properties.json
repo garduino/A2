@@ -1,0 +1,18 @@
+{
+	"category" : "A2-Model",
+	"classinstvars" : [
+		"Current" ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"customers",
+		"services",
+		"products",
+		"sales",
+		"license" ],
+	"name" : "A2",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }
